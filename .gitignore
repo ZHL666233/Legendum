@@ -17,3 +17,4 @@ ehthumbs.db
 
 # Build artifacts (not part of the game)
 node_modules/
+.reasonix/
