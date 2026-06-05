@@ -15,6 +15,6 @@ ehthumbs.db
 # Logs
 *.log
 
-# Build artifacts (not part of the game)
+# Build artifacts
 node_modules/
 .reasonix/
