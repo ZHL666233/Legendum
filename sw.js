@@ -1,5 +1,5 @@
 // Legendum Service Worker - 离线缓存 + 加速重复加载
-const CACHE = "legendum-v2";
+const CACHE = "legendum-v3";
 const ASSETS = [
   "/",
   "index.html",
